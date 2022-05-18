@@ -8,7 +8,7 @@ https://tomee.apache.org/download.html
 ```
 
 ### TomcatEE
-Apache TomEE Webprofile
+Get Apache TomEE Webprofile
 ```
 https://tomee.apache.org/download.html
 ```
